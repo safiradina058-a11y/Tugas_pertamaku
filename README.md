@@ -1,16 +1,16 @@
 # Tugas_pertamaku
 Tugas pertama saya belajar github di smk
 # Biodata saya
-**Nama** :dina shafira anjani 
+**Nama** : Dina Shafira Anjani 
 
 
-**Kelas** : X bisnis digital
+**Kelas** : X Bisnis Digital
 
 
-**Sekolah** :smk Muhammadiyah 3 giriwoyo
+**Sekolah** :Smk Muhammadiyah 3 Giriwoyo
 
 
-**Cita-Cita** :atlet tapak suci
+**Cita-Cita** :Atlet Tapak Suci
 
 
 ## Tentang Saya
